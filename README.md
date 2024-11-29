@@ -1,6 +1,6 @@
 ### Hello 👋 I'm [Baxuan](https://www.spacesai.chat/pages/about) 🫡
 
-If you want to read this in English, click [English ReadMe.md](README.md).
+If you want to read this in Chinese, click [README.zh.md](README.zh.md).
 
 <ul>
     <li>🤭 Born in 1996, a programmer who loves independent development. </li>
