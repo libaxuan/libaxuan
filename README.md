@@ -1,4 +1,4 @@
-### Hello 👋 I'm [Baxuan](https://www.spacesai.chat/pages/about) 🫡
+### Hello 👋 I'm [Baxuan](https://blog.autoais.eu.org/pages/about) 🫡
 
 If you want to read this in Chinese, click [README.zh.md](README.zh.md).
 
@@ -8,7 +8,7 @@ If you want to read this in Chinese, click [README.zh.md](README.zh.md).
     <li>🔭 Interested in programming and exploring new technologies. </li>
     <li>💰 Working in the big data industry. </li>
     <li>🌱 ‘Life is like an ant, time is like quicksand.’</li>
-<li>📚 Occasionally writes articles on blogs and public accounts: [Rational Thinking](https://www.spacesai.chat), welcome!</li>
+<li>📚 Occasionally writes articles on blogs and public accounts: [Rational Thinking](https://blog.autoais.eu.org), welcome!</li>
 <li>📮 My email is libaxuann@gmail.com</li>
 </ul>
 
@@ -16,7 +16,7 @@ If you want to read this in Chinese, click [README.zh.md](README.zh.md).
 - 🤖 [FreeTimeAI](https://freetimeai.eu.org): Uses multiple large AI models
 - 🧰 [Running](https://autoais.eu.org): A must-have office gem
 - 📰 [Hot News](https://dailytops.eu.org): Read the world at a glance
-- 🏷️ [Time Inn](https://www.spacesai.chat/): Articles on technology and life
+- 🏷️ [Time Inn](https://blog.autoais.eu.org/): Articles on technology and life
 - 📒 [LearnHub](https://gptadmin.eu.org): Note-taking website, gradually no longer updated
 - 🔧 [World AI](https://globalai.chat/): Quickly find handy tools
 
