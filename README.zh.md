@@ -18,7 +18,7 @@
 - 📰 [Hot News](https://dailytops.eu.org)：一眼看尽天下事
 - 🏷️ [时光客栈](https://www.spacesai.chat/)：记录技术、生活等文章
 - 📒 [LearnHub](https://gptadmin.eu.org)：笔记网站，逐渐不再更新
-- 🔧 [天下AI](https://globalai.chat/)：快速找到趁手的工具
+- 🔧 [天下AI](https://ainav.bettergpt.eu.org)：快速找到趁手的工具
 
 <h2 align="center">语言和部分技术栈 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
