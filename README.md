@@ -18,7 +18,7 @@ If you want to read this in Chinese, click [README.zh.md](README.zh.md).
 - 📰 [Hot News](https://dailytops.eu.org): Read the world at a glance
 - 🏷️ [Time Inn](https://blog.autoais.eu.org/): Articles on technology and life
 - 📒 [LearnHub](https://gptadmin.eu.org): Note-taking website, gradually no longer updated
-- 🔧 [World AI](https://globalai.chat/): Quickly find handy tools
+- 🔧 [World AI](https://ainav.bettergpt.eu.org/): Quickly find handy tools
 
 <h2 align="center">Language and part of the technology stack<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
